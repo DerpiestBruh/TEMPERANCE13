@@ -23,7 +23,7 @@ endmap
 map dun_world
 endmap
 
-map temperance
+map roguetest
 	default
 	votable
 endmap
